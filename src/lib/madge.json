@@ -1,0 +1,2550 @@
+{
+    "order_data": {
+        "details_list": [
+            {
+                "status": {
+                    "status_label": {
+                        "text": "label_order_completed",
+                        "tl": false
+                    },
+                    "list_view_status_label": {
+                        "text": "label_completed",
+                        "tl": false
+                    }
+                },
+                "shipping": {
+                    "tracking_info": {
+                        "driver_phone": "",
+                        "driver_name": "",
+                        "ctime": 1694174726,
+                        "description": "Parcel has been delivered",
+                        "type": 0
+                    },
+                    "is_multi_parcel": false,
+                    "num_parcels": 1,
+                    "parcel_no": 1
+                },
+                "info_card": {
+                    "order_id": 147713142256652,
+                    "order_list_cards": [
+                        {
+                            "shop_info": {
+                                "shop_id": 284787189,
+                                "shop_name": "usagilovers",
+                                "user_id": 284794629,
+                                "username": "usagilovers",
+                                "portrait": "97aec1a03c0c1452dce3ce30d4cd2b51",
+                                "shop_tag": 3
+                            },
+                            "order_id": 147713142256652,
+                            "parcel_cards": [
+                                {
+                                    "parcel_no": 1,
+                                    "forder_id": "5250336508348929189",
+                                    "product_info": {
+                                        "item_groups": [
+                                            {
+                                                "items": [
+                                                    {
+                                                        "item_id": 21880704105,
+                                                        "model_id": 127608021370,
+                                                        "shop_id": 284787189,
+                                                        "name": "Melatonin Gummies or Tablets Adults & Kids 10mg 5mg 3mg 1mg Fast Dissolve or Time Release Sleep Aid",
+                                                        "model_name": "5mg-150 Tablets-FAST",
+                                                        "image": "ph-11134207-7qul7-lhth65iyshl567",
+                                                        "amount": 1,
+                                                        "ext_info": {
+                                                            "add_on_deal_id": 0,
+                                                            "is_add_on_sub_item": false,
+                                                            "free_return_day": 0,
+                                                            "is_wholesale": false,
+                                                            "is_pre_order": false,
+                                                            "is_membership_gift": false,
+                                                            "is_free_return": false
+                                                        },
+                                                        "status": 2,
+                                                        "item_price": 94200000,
+                                                        "order_price": 94200000,
+                                                        "snapshot_id": 13378508545
+                                                    }
+                                                ],
+                                                "num_items": 1
+                                            }
+                                        ],
+                                        "total_num_items": 1
+                                    }
+                                }
+                            ],
+                            "product_info": {
+                                "item_groups": [
+                                    {
+                                        "items": [
+                                            {
+                                                "item_id": 21880704105,
+                                                "model_id": 127608021370,
+                                                "shop_id": 284787189,
+                                                "name": "Melatonin Gummies or Tablets Adults & Kids 10mg 5mg 3mg 1mg Fast Dissolve or Time Release Sleep Aid",
+                                                "model_name": "5mg-150 Tablets-FAST",
+                                                "image": "ph-11134207-7qul7-lhth65iyshl567",
+                                                "amount": 1,
+                                                "ext_info": {
+                                                    "add_on_deal_id": 0,
+                                                    "is_add_on_sub_item": false,
+                                                    "free_return_day": 0,
+                                                    "is_wholesale": false,
+                                                    "is_pre_order": false,
+                                                    "is_membership_gift": false,
+                                                    "is_free_return": false
+                                                },
+                                                "status": 2,
+                                                "item_price": 94200000,
+                                                "order_price": 94200000,
+                                                "snapshot_id": 13378508545
+                                            }
+                                        ],
+                                        "num_items": 1
+                                    }
+                                ],
+                                "total_num_items": 1
+                            }
+                        }
+                    ],
+                    "product_count": 1,
+                    "subtotal": 83500000,
+                    "final_total": 83500000
+                },
+                "primary_buttons": [
+                    {
+                        "id": 24
+                    }
+                ],
+                "guarantee": {
+                    "learn_more_url": "https://shopee.ph/m/shopee-guarantee",
+                    "is_extend_enabled": true
+                },
+                "list_type": 3
+            },
+            {
+                "status": {
+                    "status_label": {
+                        "text": "label_order_completed",
+                        "tl": false
+                    },
+                    "list_view_status_label": {
+                        "text": "label_completed",
+                        "tl": false
+                    }
+                },
+                "shipping": {
+                    "tracking_info": {
+                        "driver_phone": "",
+                        "driver_name": "",
+                        "ctime": 1694076316,
+                        "description": "Parcel has been delivered",
+                        "type": 0
+                    },
+                    "is_multi_parcel": false,
+                    "num_parcels": 1,
+                    "parcel_no": 1
+                },
+                "info_card": {
+                    "order_id": 147475843207336,
+                    "order_list_cards": [
+                        {
+                            "shop_info": {
+                                "shop_id": 370319555,
+                                "shop_name": "Gallerian FIX",
+                                "user_id": 370339132,
+                                "username": "gallerianfixph",
+                                "portrait": "cacc04fc91cf175d24926bb5f11b3ba0",
+                                "shop_tag": 3
+                            },
+                            "order_id": 147475843207336,
+                            "parcel_cards": [
+                                {
+                                    "parcel_no": 1,
+                                    "forder_id": "5248176718657540555",
+                                    "product_info": {
+                                        "item_groups": [
+                                            {
+                                                "items": [
+                                                    {
+                                                        "item_id": 9784626099,
+                                                        "model_id": 111236488448,
+                                                        "shop_id": 370319555,
+                                                        "name": "AM4 Bracket for motherboard to clip your heatsink cooling  fan to your motherboard",
+                                                        "model_name": "",
+                                                        "image": "3f88c60a79048e27c9c22772ea02a9b7",
+                                                        "amount": 1,
+                                                        "ext_info": {
+                                                            "add_on_deal_id": 0,
+                                                            "is_add_on_sub_item": false,
+                                                            "free_return_day": 0,
+                                                            "is_wholesale": false,
+                                                            "is_pre_order": false,
+                                                            "is_membership_gift": false,
+                                                            "is_free_return": false
+                                                        },
+                                                        "status": 2,
+                                                        "item_price": 13000000,
+                                                        "price_before_discount": 15000000,
+                                                        "order_price": 13000000,
+                                                        "snapshot_id": 11334215526
+                                                    }
+                                                ],
+                                                "num_items": 1
+                                            }
+                                        ],
+                                        "total_num_items": 1
+                                    }
+                                }
+                            ],
+                            "product_info": {
+                                "item_groups": [
+                                    {
+                                        "items": [
+                                            {
+                                                "item_id": 9784626099,
+                                                "model_id": 111236488448,
+                                                "shop_id": 370319555,
+                                                "name": "AM4 Bracket for motherboard to clip your heatsink cooling  fan to your motherboard",
+                                                "model_name": "",
+                                                "image": "3f88c60a79048e27c9c22772ea02a9b7",
+                                                "amount": 1,
+                                                "ext_info": {
+                                                    "add_on_deal_id": 0,
+                                                    "is_add_on_sub_item": false,
+                                                    "free_return_day": 0,
+                                                    "is_wholesale": false,
+                                                    "is_pre_order": false,
+                                                    "is_membership_gift": false,
+                                                    "is_free_return": false
+                                                },
+                                                "status": 2,
+                                                "item_price": 13000000,
+                                                "price_before_discount": 15000000,
+                                                "order_price": 13000000,
+                                                "snapshot_id": 11334215526
+                                            }
+                                        ],
+                                        "num_items": 1
+                                    }
+                                ],
+                                "total_num_items": 1
+                            }
+                        }
+                    ],
+                    "product_count": 1,
+                    "subtotal": 21000000,
+                    "final_total": 21000000
+                },
+                "primary_buttons": [
+                    {
+                        "id": 24
+                    }
+                ],
+                "guarantee": {
+                    "learn_more_url": "https://shopee.ph/m/shopee-guarantee",
+                    "is_extend_enabled": true
+                },
+                "list_type": 3
+            },
+            {
+                "status": {
+                    "status_label": {
+                        "text": "label_order_completed",
+                        "tl": false
+                    },
+                    "list_view_status_label": {
+                        "text": "label_completed",
+                        "tl": false
+                    }
+                },
+                "shipping": {
+                    "tracking_info": {
+                        "driver_phone": "",
+                        "driver_name": "",
+                        "ctime": 1691042659,
+                        "description": "Parcel has been delivered",
+                        "type": 0
+                    },
+                    "is_multi_parcel": false,
+                    "num_parcels": 1,
+                    "parcel_no": 1
+                },
+                "info_card": {
+                    "order_id": 144345498243263,
+                    "order_list_cards": [
+                        {
+                            "shop_info": {
+                                "shop_id": 860064158,
+                                "shop_name": "Phone Battery15",
+                                "user_id": 860079110,
+                                "username": "phonebattery15",
+                                "portrait": "9dccf997f7c477763740f0dd588309f0",
+                                "shop_tag": 3
+                            },
+                            "order_id": 144345498243263,
+                            "parcel_cards": [
+                                {
+                                    "parcel_no": 1,
+                                    "forder_id": "5222284189526017158",
+                                    "product_info": {
+                                        "item_groups": [
+                                            {
+                                                "items": [
+                                                    {
+                                                        "item_id": 23901903981,
+                                                        "model_id": 212880111249,
+                                                        "shop_id": 860064158,
+                                                        "name": "Panasonic Eneloop Pro Original 1.2V AA AAA NI-MH Rechargeable battery For Camera with free case",
+                                                        "model_name": "White,4PCS AA",
+                                                        "image": "sg-11134201-22110-erc9z6h6tgkvce",
+                                                        "amount": 1,
+                                                        "ext_info": {
+                                                            "add_on_deal_id": 0,
+                                                            "is_add_on_sub_item": false,
+                                                            "free_return_day": 0,
+                                                            "is_wholesale": false,
+                                                            "is_pre_order": false,
+                                                            "is_membership_gift": false,
+                                                            "is_free_return": false
+                                                        },
+                                                        "status": 1,
+                                                        "item_price": 46500000,
+                                                        "price_before_discount": 96800000,
+                                                        "order_price": 46500000,
+                                                        "snapshot_id": 21303128701
+                                                    }
+                                                ],
+                                                "num_items": 1
+                                            }
+                                        ],
+                                        "total_num_items": 1
+                                    }
+                                }
+                            ],
+                            "product_info": {
+                                "item_groups": [
+                                    {
+                                        "items": [
+                                            {
+                                                "item_id": 23901903981,
+                                                "model_id": 212880111249,
+                                                "shop_id": 860064158,
+                                                "name": "Panasonic Eneloop Pro Original 1.2V AA AAA NI-MH Rechargeable battery For Camera with free case",
+                                                "model_name": "White,4PCS AA",
+                                                "image": "sg-11134201-22110-erc9z6h6tgkvce",
+                                                "amount": 1,
+                                                "ext_info": {
+                                                    "add_on_deal_id": 0,
+                                                    "is_add_on_sub_item": false,
+                                                    "free_return_day": 0,
+                                                    "is_wholesale": false,
+                                                    "is_pre_order": false,
+                                                    "is_membership_gift": false,
+                                                    "is_free_return": false
+                                                },
+                                                "status": 1,
+                                                "item_price": 46500000,
+                                                "price_before_discount": 96800000,
+                                                "order_price": 46500000,
+                                                "snapshot_id": 21303128701
+                                            }
+                                        ],
+                                        "num_items": 1
+                                    }
+                                ],
+                                "total_num_items": 1
+                            }
+                        }
+                    ],
+                    "product_count": 1,
+                    "subtotal": 29800000,
+                    "final_total": 29800000
+                },
+                "primary_buttons": [
+                    {
+                        "id": 24
+                    }
+                ],
+                "guarantee": {
+                    "learn_more_url": "https://shopee.ph/m/shopee-guarantee",
+                    "is_extend_enabled": true
+                },
+                "list_type": 3
+            },
+            {
+                "status": {
+                    "status_label": {
+                        "text": "label_order_completed",
+                        "tl": false
+                    },
+                    "list_view_status_label": {
+                        "text": "label_completed",
+                        "tl": false
+                    }
+                },
+                "shipping": {
+                    "tracking_info": {
+                        "driver_phone": "",
+                        "driver_name": "",
+                        "ctime": 1689225922,
+                        "description": "Parcel has been delivered",
+                        "type": 0
+                    },
+                    "is_multi_parcel": false,
+                    "num_parcels": 1,
+                    "parcel_no": 1
+                },
+                "info_card": {
+                    "order_id": 142735746288632,
+                    "order_list_cards": [
+                        {
+                            "shop_info": {
+                                "shop_id": 251700930,
+                                "shop_name": "Easy shopping",
+                                "user_id": 251701437,
+                                "username": "aarjx8pu6n",
+                                "portrait": "8424c59a032d37fc257c244e25f8a9ec",
+                                "shop_tag": 3
+                            },
+                            "order_id": 142735746288632,
+                            "parcel_cards": [
+                                {
+                                    "parcel_no": 1,
+                                    "forder_id": "5208430361531910930",
+                                    "product_info": {
+                                        "item_groups": [
+                                            {
+                                                "items": [
+                                                    {
+                                                        "item_id": 9280494591,
+                                                        "model_id": 36529120667,
+                                                        "shop_id": 251700930,
+                                                        "name": "Games Joystick Gamepad PC Game Multifunctional USB Controller With Rocker For PC Computer",
+                                                        "model_name": "Black",
+                                                        "image": "dd1a18c8c33a004ff8d80d9aa9753107",
+                                                        "amount": 1,
+                                                        "ext_info": {
+                                                            "add_on_deal_id": 0,
+                                                            "is_add_on_sub_item": false,
+                                                            "free_return_day": 0,
+                                                            "is_wholesale": false,
+                                                            "is_pre_order": false,
+                                                            "is_membership_gift": false,
+                                                            "is_free_return": false
+                                                        },
+                                                        "status": 2,
+                                                        "item_price": 13900000,
+                                                        "price_before_discount": 69900000,
+                                                        "order_price": 13900000,
+                                                        "snapshot_id": 28298354848
+                                                    }
+                                                ],
+                                                "num_items": 1
+                                            }
+                                        ],
+                                        "total_num_items": 1
+                                    }
+                                }
+                            ],
+                            "product_info": {
+                                "item_groups": [
+                                    {
+                                        "items": [
+                                            {
+                                                "item_id": 9280494591,
+                                                "model_id": 36529120667,
+                                                "shop_id": 251700930,
+                                                "name": "Games Joystick Gamepad PC Game Multifunctional USB Controller With Rocker For PC Computer",
+                                                "model_name": "Black",
+                                                "image": "dd1a18c8c33a004ff8d80d9aa9753107",
+                                                "amount": 1,
+                                                "ext_info": {
+                                                    "add_on_deal_id": 0,
+                                                    "is_add_on_sub_item": false,
+                                                    "free_return_day": 0,
+                                                    "is_wholesale": false,
+                                                    "is_pre_order": false,
+                                                    "is_membership_gift": false,
+                                                    "is_free_return": false
+                                                },
+                                                "status": 2,
+                                                "item_price": 13900000,
+                                                "price_before_discount": 69900000,
+                                                "order_price": 13900000,
+                                                "snapshot_id": 28298354848
+                                            }
+                                        ],
+                                        "num_items": 1
+                                    }
+                                ],
+                                "total_num_items": 1
+                            }
+                        }
+                    ],
+                    "product_count": 1,
+                    "subtotal": 10500000,
+                    "final_total": 10500000
+                },
+                "primary_buttons": [
+                    {
+                        "id": 24
+                    }
+                ],
+                "guarantee": {
+                    "learn_more_url": "https://shopee.ph/m/shopee-guarantee",
+                    "is_extend_enabled": true
+                },
+                "list_type": 3
+            },
+            {
+                "status": {
+                    "status_label": {
+                        "text": "label_order_completed",
+                        "tl": false
+                    },
+                    "list_view_status_label": {
+                        "text": "label_completed",
+                        "tl": false
+                    }
+                },
+                "shipping": {
+                    "tracking_info": {
+                        "driver_phone": "",
+                        "driver_name": "",
+                        "ctime": 1689480419,
+                        "description": "Parcel has been delivered",
+                        "type": 0
+                    },
+                    "is_multi_parcel": false,
+                    "num_parcels": 1,
+                    "parcel_no": 1
+                },
+                "info_card": {
+                    "order_id": 142735746288631,
+                    "order_list_cards": [
+                        {
+                            "shop_info": {
+                                "shop_id": 261732169,
+                                "shop_name": "CITY CENTER",
+                                "user_id": 261734201,
+                                "username": "3d73ng83pf",
+                                "portrait": "588219880e69caf98ebc5c28559b78b1",
+                                "shop_tag": 0
+                            },
+                            "order_id": 142735746288631,
+                            "parcel_cards": [
+                                {
+                                    "parcel_no": 1,
+                                    "forder_id": "5208371280579586169",
+                                    "product_info": {
+                                        "item_groups": [
+                                            {
+                                                "items": [
+                                                    {
+                                                        "item_id": 8290205549,
+                                                        "model_id": 94301823094,
+                                                        "shop_id": 261732169,
+                                                        "name": "【LOCAL SHIP】Potty Help Plastic Bathroom Toilet Foot Stool Rest White Footseat Relieves Constipation",
+                                                        "model_name": "White",
+                                                        "image": "b86947371717c354f5529fa7d95d7517",
+                                                        "amount": 1,
+                                                        "ext_info": {
+                                                            "add_on_deal_id": 0,
+                                                            "is_add_on_sub_item": false,
+                                                            "free_return_day": 0,
+                                                            "is_wholesale": false,
+                                                            "is_pre_order": false,
+                                                            "is_membership_gift": false,
+                                                            "is_free_return": false
+                                                        },
+                                                        "status": 2,
+                                                        "item_price": 15500000,
+                                                        "price_before_discount": 59900000,
+                                                        "order_price": 15500000,
+                                                        "snapshot_id": 26296437836
+                                                    }
+                                                ],
+                                                "num_items": 1
+                                            }
+                                        ],
+                                        "total_num_items": 1
+                                    }
+                                }
+                            ],
+                            "product_info": {
+                                "item_groups": [
+                                    {
+                                        "items": [
+                                            {
+                                                "item_id": 8290205549,
+                                                "model_id": 94301823094,
+                                                "shop_id": 261732169,
+                                                "name": "【LOCAL SHIP】Potty Help Plastic Bathroom Toilet Foot Stool Rest White Footseat Relieves Constipation",
+                                                "model_name": "White",
+                                                "image": "b86947371717c354f5529fa7d95d7517",
+                                                "amount": 1,
+                                                "ext_info": {
+                                                    "add_on_deal_id": 0,
+                                                    "is_add_on_sub_item": false,
+                                                    "free_return_day": 0,
+                                                    "is_wholesale": false,
+                                                    "is_pre_order": false,
+                                                    "is_membership_gift": false,
+                                                    "is_free_return": false
+                                                },
+                                                "status": 2,
+                                                "item_price": 15500000,
+                                                "price_before_discount": 59900000,
+                                                "order_price": 15500000,
+                                                "snapshot_id": 26296437836
+                                            }
+                                        ],
+                                        "num_items": 1
+                                    }
+                                ],
+                                "total_num_items": 1
+                            }
+                        }
+                    ],
+                    "product_count": 1,
+                    "subtotal": 16200000,
+                    "final_total": 16200000
+                },
+                "primary_buttons": [
+                    {
+                        "id": 24
+                    }
+                ],
+                "guarantee": {
+                    "learn_more_url": "https://shopee.ph/m/shopee-guarantee",
+                    "is_extend_enabled": true
+                },
+                "list_type": 3
+            },
+            {
+                "status": {
+                    "status_label": {
+                        "text": "label_order_completed",
+                        "tl": false
+                    },
+                    "list_view_status_label": {
+                        "text": "label_completed",
+                        "tl": false
+                    }
+                },
+                "shipping": {
+                    "tracking_info": {
+                        "driver_phone": "",
+                        "driver_name": "",
+                        "ctime": 1689226562,
+                        "description": "Parcel has been delivered",
+                        "type": 0
+                    },
+                    "is_multi_parcel": false,
+                    "num_parcels": 1,
+                    "parcel_no": 1
+                },
+                "info_card": {
+                    "order_id": 142735746288630,
+                    "order_list_cards": [
+                        {
+                            "shop_info": {
+                                "shop_id": 75900564,
+                                "shop_name": "UPSPICE",
+                                "user_id": 75902035,
+                                "username": "madspariente",
+                                "portrait": "f822b2090e134e2fd43f63a004c331c1",
+                                "shop_tag": 3
+                            },
+                            "order_id": 142735746288630,
+                            "parcel_cards": [
+                                {
+                                    "parcel_no": 1,
+                                    "forder_id": "5208808914234881564",
+                                    "product_info": {
+                                        "item_groups": [
+                                            {
+                                                "items": [
+                                                    {
+                                                        "item_id": 4058165477,
+                                                        "model_id": 41450379618,
+                                                        "shop_id": 75900564,
+                                                        "name": "UPSPICE - Chili Garlic Oil - 220ml / 8oz",
+                                                        "model_name": "Sweet & Spicy",
+                                                        "image": "beb30f4129972e94c48072e403cec476",
+                                                        "amount": 1,
+                                                        "ext_info": {
+                                                            "add_on_deal_id": 210676504,
+                                                            "add_on_sub_type": 1,
+                                                            "is_add_on_sub_item": false,
+                                                            "free_return_day": 0,
+                                                            "is_wholesale": false,
+                                                            "is_pre_order": false,
+                                                            "is_membership_gift": false,
+                                                            "is_free_return": false
+                                                        },
+                                                        "status": 2,
+                                                        "item_price": 13000000,
+                                                        "order_price": 13000000,
+                                                        "snapshot_id": 11297953752
+                                                    },
+                                                    {
+                                                        "item_id": 4058165477,
+                                                        "model_id": 41450379619,
+                                                        "shop_id": 75900564,
+                                                        "name": "UPSPICE - Chili Garlic Oil - 220ml / 8oz",
+                                                        "model_name": "Classic",
+                                                        "image": "sg-11134201-22100-uq0c16pldkiv32",
+                                                        "amount": 1,
+                                                        "ext_info": {
+                                                            "add_on_deal_id": 210676504,
+                                                            "add_on_sub_type": 1,
+                                                            "is_add_on_sub_item": false,
+                                                            "free_return_day": 0,
+                                                            "is_wholesale": false,
+                                                            "is_pre_order": false,
+                                                            "is_membership_gift": false,
+                                                            "is_free_return": false
+                                                        },
+                                                        "status": 2,
+                                                        "item_price": 13000000,
+                                                        "order_price": 13000000,
+                                                        "snapshot_id": 11297953752
+                                                    }
+                                                ],
+                                                "num_items": 2
+                                            }
+                                        ],
+                                        "total_num_items": 2
+                                    }
+                                }
+                            ],
+                            "product_info": {
+                                "item_groups": [
+                                    {
+                                        "items": [
+                                            {
+                                                "item_id": 4058165477,
+                                                "model_id": 41450379618,
+                                                "shop_id": 75900564,
+                                                "name": "UPSPICE - Chili Garlic Oil - 220ml / 8oz",
+                                                "model_name": "Sweet & Spicy",
+                                                "image": "beb30f4129972e94c48072e403cec476",
+                                                "amount": 1,
+                                                "ext_info": {
+                                                    "add_on_deal_id": 210676504,
+                                                    "add_on_sub_type": 1,
+                                                    "is_add_on_sub_item": false,
+                                                    "free_return_day": 0,
+                                                    "is_wholesale": false,
+                                                    "is_pre_order": false,
+                                                    "is_membership_gift": false,
+                                                    "is_free_return": false
+                                                },
+                                                "status": 2,
+                                                "item_price": 13000000,
+                                                "order_price": 13000000,
+                                                "snapshot_id": 11297953752
+                                            },
+                                            {
+                                                "item_id": 4058165477,
+                                                "model_id": 41450379619,
+                                                "shop_id": 75900564,
+                                                "name": "UPSPICE - Chili Garlic Oil - 220ml / 8oz",
+                                                "model_name": "Classic",
+                                                "image": "sg-11134201-22100-uq0c16pldkiv32",
+                                                "amount": 1,
+                                                "ext_info": {
+                                                    "add_on_deal_id": 210676504,
+                                                    "add_on_sub_type": 1,
+                                                    "is_add_on_sub_item": false,
+                                                    "free_return_day": 0,
+                                                    "is_wholesale": false,
+                                                    "is_pre_order": false,
+                                                    "is_membership_gift": false,
+                                                    "is_free_return": false
+                                                },
+                                                "status": 2,
+                                                "item_price": 13000000,
+                                                "order_price": 13000000,
+                                                "snapshot_id": 11297953752
+                                            }
+                                        ],
+                                        "num_items": 2
+                                    }
+                                ],
+                                "total_num_items": 2
+                            }
+                        }
+                    ],
+                    "product_count": 2,
+                    "subtotal": 21800000,
+                    "final_total": 21800000
+                },
+                "primary_buttons": [
+                    {
+                        "id": 24
+                    }
+                ],
+                "guarantee": {
+                    "learn_more_url": "https://shopee.ph/m/shopee-guarantee",
+                    "is_extend_enabled": true
+                },
+                "list_type": 3
+            },
+            {
+                "status": {
+                    "status_label": {
+                        "text": "label_order_completed",
+                        "tl": false
+                    },
+                    "list_view_status_label": {
+                        "text": "label_completed",
+                        "tl": false
+                    }
+                },
+                "shipping": {
+                    "tracking_info": {
+                        "driver_phone": "",
+                        "driver_name": "",
+                        "ctime": 1688110685,
+                        "description": "Parcel has been delivered",
+                        "type": 0
+                    },
+                    "is_multi_parcel": false,
+                    "num_parcels": 1,
+                    "parcel_no": 1
+                },
+                "info_card": {
+                    "order_id": 141545776249757,
+                    "order_list_cards": [
+                        {
+                            "shop_info": {
+                                "shop_id": 366466314,
+                                "shop_name": "YayiePC",
+                                "user_id": 366485891,
+                                "username": "yayiestoreph",
+                                "portrait": "8e9eab4ae2007ed1813d5c87f382f505",
+                                "shop_tag": 3
+                            },
+                            "order_id": 141545776249757,
+                            "parcel_cards": [
+                                {
+                                    "parcel_no": 1,
+                                    "forder_id": "5198565442428930314",
+                                    "product_info": {
+                                        "item_groups": [
+                                            {
+                                                "items": [
+                                                    {
+                                                        "item_id": 4681676811,
+                                                        "model_id": 92132162193,
+                                                        "shop_id": 366466314,
+                                                        "name": "Asiahorse PSU Extension Cable Customization Mod Sleeve Extension Power Supply 6 pcs Cable Kit",
+                                                        "model_name": "Natural White,4 pcs kit",
+                                                        "image": "a14dccaaea562f2aa4580c3857354b43",
+                                                        "amount": 1,
+                                                        "ext_info": {
+                                                            "add_on_deal_id": 0,
+                                                            "is_add_on_sub_item": false,
+                                                            "free_return_day": 0,
+                                                            "is_wholesale": false,
+                                                            "is_pre_order": false,
+                                                            "is_membership_gift": false,
+                                                            "is_free_return": false
+                                                        },
+                                                        "status": 2,
+                                                        "item_price": 109900000,
+                                                        "order_price": 109900000,
+                                                        "snapshot_id": 13266132952
+                                                    }
+                                                ],
+                                                "num_items": 1
+                                            }
+                                        ],
+                                        "total_num_items": 1
+                                    }
+                                }
+                            ],
+                            "product_info": {
+                                "item_groups": [
+                                    {
+                                        "items": [
+                                            {
+                                                "item_id": 4681676811,
+                                                "model_id": 92132162193,
+                                                "shop_id": 366466314,
+                                                "name": "Asiahorse PSU Extension Cable Customization Mod Sleeve Extension Power Supply 6 pcs Cable Kit",
+                                                "model_name": "Natural White,4 pcs kit",
+                                                "image": "a14dccaaea562f2aa4580c3857354b43",
+                                                "amount": 1,
+                                                "ext_info": {
+                                                    "add_on_deal_id": 0,
+                                                    "is_add_on_sub_item": false,
+                                                    "free_return_day": 0,
+                                                    "is_wholesale": false,
+                                                    "is_pre_order": false,
+                                                    "is_membership_gift": false,
+                                                    "is_free_return": false
+                                                },
+                                                "status": 2,
+                                                "item_price": 109900000,
+                                                "order_price": 109900000,
+                                                "snapshot_id": 13266132952
+                                            }
+                                        ],
+                                        "num_items": 1
+                                    }
+                                ],
+                                "total_num_items": 1
+                            }
+                        }
+                    ],
+                    "product_count": 1,
+                    "subtotal": 116000000,
+                    "final_total": 116000000
+                },
+                "primary_buttons": [
+                    {
+                        "id": 24
+                    }
+                ],
+                "guarantee": {
+                    "learn_more_url": "https://shopee.ph/m/shopee-guarantee",
+                    "is_extend_enabled": true
+                },
+                "list_type": 3
+            },
+            {
+                "status": {
+                    "status_label": {
+                        "text": "label_order_completed",
+                        "tl": false
+                    },
+                    "list_view_status_label": {
+                        "text": "label_completed",
+                        "tl": false
+                    }
+                },
+                "shipping": {
+                    "tracking_info": {
+                        "driver_phone": "",
+                        "driver_name": "",
+                        "ctime": 1688368607,
+                        "description": "Parcel has been delivered",
+                        "type": 0
+                    },
+                    "is_multi_parcel": false,
+                    "num_parcels": 1,
+                    "parcel_no": 1
+                },
+                "info_card": {
+                    "order_id": 141543179201702,
+                    "order_list_cards": [
+                        {
+                            "shop_info": {
+                                "shop_id": 284376129,
+                                "shop_name": "Ezdiy Fab Computer Accessories",
+                                "user_id": 284383489,
+                                "username": "ezdiyfab.ph",
+                                "portrait": "230dc073856e26589735b406981eda6d",
+                                "shop_tag": 0
+                            },
+                            "order_id": 141543179201702,
+                            "parcel_cards": [
+                                {
+                                    "parcel_no": 1,
+                                    "forder_id": "5198449687991810129",
+                                    "product_info": {
+                                        "item_groups": [
+                                            {
+                                                "items": [
+                                                    {
+                                                        "item_id": 23224487084,
+                                                        "model_id": 193858493078,
+                                                        "shop_id": 284376129,
+                                                        "name": "EZDIY-FAB GPU Power Sleeved Cable Extension, 16pin(12+4) 12VHPWR PCIe 5.0 Connector Male to 3X PCIE 8 PIN for RTX ˋ4070ti/ 4080/ 3090Ti, with Pre-Installed Cable Combs-16AWG",
+                                                        "model_name": "White",
+                                                        "image": "my-11134201-23020-lutewmajbknv11",
+                                                        "amount": 1,
+                                                        "ext_info": {
+                                                            "add_on_deal_id": 0,
+                                                            "is_add_on_sub_item": false,
+                                                            "free_return_day": 0,
+                                                            "is_wholesale": false,
+                                                            "is_pre_order": false,
+                                                            "is_membership_gift": false,
+                                                            "is_free_return": false
+                                                        },
+                                                        "status": 2,
+                                                        "item_price": 150000000,
+                                                        "order_price": 150000000,
+                                                        "snapshot_id": 29275571524
+                                                    }
+                                                ],
+                                                "num_items": 1
+                                            }
+                                        ],
+                                        "total_num_items": 1
+                                    }
+                                }
+                            ],
+                            "product_info": {
+                                "item_groups": [
+                                    {
+                                        "items": [
+                                            {
+                                                "item_id": 23224487084,
+                                                "model_id": 193858493078,
+                                                "shop_id": 284376129,
+                                                "name": "EZDIY-FAB GPU Power Sleeved Cable Extension, 16pin(12+4) 12VHPWR PCIe 5.0 Connector Male to 3X PCIE 8 PIN for RTX ˋ4070ti/ 4080/ 3090Ti, with Pre-Installed Cable Combs-16AWG",
+                                                "model_name": "White",
+                                                "image": "my-11134201-23020-lutewmajbknv11",
+                                                "amount": 1,
+                                                "ext_info": {
+                                                    "add_on_deal_id": 0,
+                                                    "is_add_on_sub_item": false,
+                                                    "free_return_day": 0,
+                                                    "is_wholesale": false,
+                                                    "is_pre_order": false,
+                                                    "is_membership_gift": false,
+                                                    "is_free_return": false
+                                                },
+                                                "status": 2,
+                                                "item_price": 150000000,
+                                                "order_price": 150000000,
+                                                "snapshot_id": 29275571524
+                                            }
+                                        ],
+                                        "num_items": 1
+                                    }
+                                ],
+                                "total_num_items": 1
+                            }
+                        }
+                    ],
+                    "product_count": 1,
+                    "subtotal": 139000000,
+                    "final_total": 139000000
+                },
+                "primary_buttons": [
+                    {
+                        "id": 24
+                    }
+                ],
+                "guarantee": {
+                    "learn_more_url": "https://shopee.ph/m/shopee-guarantee",
+                    "is_extend_enabled": true
+                },
+                "list_type": 3
+            },
+            {
+                "status": {
+                    "status_label": {
+                        "text": "label_order_cancelled",
+                        "tl": false
+                    },
+                    "list_view_text": {
+                        "text": "order_list_text_cancelled_by_buyer",
+                        "tl": false
+                    },
+                    "list_view_status_label": {
+                        "text": "label_cancelled",
+                        "tl": false
+                    }
+                },
+                "info_card": {
+                    "order_id": 141541486209043,
+                    "order_list_cards": [
+                        {
+                            "shop_info": {
+                                "shop_id": 284376129,
+                                "shop_name": "Ezdiy Fab Computer Accessories",
+                                "user_id": 284383489,
+                                "username": "ezdiyfab.ph",
+                                "portrait": "230dc073856e26589735b406981eda6d",
+                                "shop_tag": 0
+                            },
+                            "order_id": 141541486209043,
+                            "parcel_cards": [
+                                {
+                                    "parcel_no": 1,
+                                    "forder_id": "",
+                                    "product_info": {
+                                        "item_groups": [
+                                            {
+                                                "items": [
+                                                    {
+                                                        "item_id": 23224487084,
+                                                        "model_id": 193858493078,
+                                                        "shop_id": 284376129,
+                                                        "name": "EZDIY-FAB GPU Power Sleeved Cable Extension, 16pin(12+4) 12VHPWR PCIe 5.0 Connector Male to 3X PCIE 8 PIN for RTX ˋ4070ti/ 4080/ 3090Ti, with Pre-Installed Cable Combs-16AWG",
+                                                        "model_name": "White",
+                                                        "image": "my-11134201-23020-lutewmajbknv11",
+                                                        "amount": 1,
+                                                        "ext_info": {
+                                                            "add_on_deal_id": 0,
+                                                            "is_add_on_sub_item": false,
+                                                            "free_return_day": 0,
+                                                            "is_wholesale": false,
+                                                            "is_pre_order": false,
+                                                            "is_membership_gift": false,
+                                                            "is_free_return": false
+                                                        },
+                                                        "status": 5,
+                                                        "item_price": 150000000,
+                                                        "order_price": 150000000,
+                                                        "snapshot_id": 29275571524
+                                                    }
+                                                ],
+                                                "num_items": 1
+                                            }
+                                        ],
+                                        "total_num_items": 1
+                                    }
+                                }
+                            ],
+                            "product_info": {
+                                "item_groups": [
+                                    {
+                                        "items": [
+                                            {
+                                                "item_id": 23224487084,
+                                                "model_id": 193858493078,
+                                                "shop_id": 284376129,
+                                                "name": "EZDIY-FAB GPU Power Sleeved Cable Extension, 16pin(12+4) 12VHPWR PCIe 5.0 Connector Male to 3X PCIE 8 PIN for RTX ˋ4070ti/ 4080/ 3090Ti, with Pre-Installed Cable Combs-16AWG",
+                                                "model_name": "White",
+                                                "image": "my-11134201-23020-lutewmajbknv11",
+                                                "amount": 1,
+                                                "ext_info": {
+                                                    "add_on_deal_id": 0,
+                                                    "is_add_on_sub_item": false,
+                                                    "free_return_day": 0,
+                                                    "is_wholesale": false,
+                                                    "is_pre_order": false,
+                                                    "is_membership_gift": false,
+                                                    "is_free_return": false
+                                                },
+                                                "status": 5,
+                                                "item_price": 150000000,
+                                                "order_price": 150000000,
+                                                "snapshot_id": 29275571524
+                                            }
+                                        ],
+                                        "num_items": 1
+                                    }
+                                ],
+                                "total_num_items": 1
+                            }
+                        }
+                    ],
+                    "product_count": 1,
+                    "subtotal": 139000000,
+                    "final_total": 139000000
+                },
+                "primary_buttons": [
+                    {
+                        "id": 24
+                    },
+                    {
+                        "id": 30
+                    }
+                ],
+                "guarantee": {
+                    "learn_more_url": "https://shopee.ph/m/shopee-guarantee",
+                    "is_extend_enabled": true
+                },
+                "list_type": 4,
+                "is_new_cancellation_flow_enabled": false
+            },
+            {
+                "status": {
+                    "status_label": {
+                        "text": "label_order_completed",
+                        "tl": false
+                    },
+                    "list_view_status_label": {
+                        "text": "label_completed",
+                        "tl": false
+                    }
+                },
+                "shipping": {
+                    "tracking_info": {
+                        "driver_phone": "",
+                        "driver_name": "",
+                        "ctime": 1688448691,
+                        "description": "Parcel has been delivered",
+                        "type": 0
+                    },
+                    "is_multi_parcel": false,
+                    "num_parcels": 1,
+                    "parcel_no": 1
+                },
+                "info_card": {
+                    "order_id": 141532684222313,
+                    "order_list_cards": [
+                        {
+                            "shop_info": {
+                                "shop_id": 135511180,
+                                "shop_name": "doublebuy1.ph",
+                                "user_id": 135513004,
+                                "username": "doublebuy1.ph",
+                                "portrait": "04968dfe8260c5d18f412f371fe7204b",
+                                "shop_tag": 3
+                            },
+                            "order_id": 141532684222313,
+                            "parcel_cards": [
+                                {
+                                    "parcel_no": 1,
+                                    "forder_id": "5198274793918978180",
+                                    "product_info": {
+                                        "item_groups": [
+                                            {
+                                                "items": [
+                                                    {
+                                                        "item_id": 18478816682,
+                                                        "model_id": 204227662579,
+                                                        "shop_id": 135511180,
+                                                        "name": "Doublebuy Graphics Card GPU Brace Support Holder Universal Video Card Sag Support Stand Adjustable  Graphics Card Holder",
+                                                        "model_name": "Silver,short",
+                                                        "image": "sg-11134201-23010-akl288xnaxmva3",
+                                                        "amount": 1,
+                                                        "ext_info": {
+                                                            "add_on_deal_id": 0,
+                                                            "is_add_on_sub_item": false,
+                                                            "free_return_day": 0,
+                                                            "is_wholesale": false,
+                                                            "is_pre_order": false,
+                                                            "is_membership_gift": false,
+                                                            "is_free_return": false
+                                                        },
+                                                        "status": 2,
+                                                        "item_price": 15900000,
+                                                        "price_before_discount": 27400000,
+                                                        "order_price": 15900000,
+                                                        "snapshot_id": 23275296641
+                                                    }
+                                                ],
+                                                "num_items": 1
+                                            }
+                                        ],
+                                        "total_num_items": 1
+                                    }
+                                }
+                            ],
+                            "product_info": {
+                                "item_groups": [
+                                    {
+                                        "items": [
+                                            {
+                                                "item_id": 18478816682,
+                                                "model_id": 204227662579,
+                                                "shop_id": 135511180,
+                                                "name": "Doublebuy Graphics Card GPU Brace Support Holder Universal Video Card Sag Support Stand Adjustable  Graphics Card Holder",
+                                                "model_name": "Silver,short",
+                                                "image": "sg-11134201-23010-akl288xnaxmva3",
+                                                "amount": 1,
+                                                "ext_info": {
+                                                    "add_on_deal_id": 0,
+                                                    "is_add_on_sub_item": false,
+                                                    "free_return_day": 0,
+                                                    "is_wholesale": false,
+                                                    "is_pre_order": false,
+                                                    "is_membership_gift": false,
+                                                    "is_free_return": false
+                                                },
+                                                "status": 2,
+                                                "item_price": 15900000,
+                                                "price_before_discount": 27400000,
+                                                "order_price": 15900000,
+                                                "snapshot_id": 23275296641
+                                            }
+                                        ],
+                                        "num_items": 1
+                                    }
+                                ],
+                                "total_num_items": 1
+                            }
+                        }
+                    ],
+                    "product_count": 1,
+                    "subtotal": 15900000,
+                    "final_total": 15900000
+                },
+                "primary_buttons": [
+                    {
+                        "id": 24
+                    }
+                ],
+                "guarantee": {
+                    "learn_more_url": "https://shopee.ph/m/shopee-guarantee",
+                    "is_extend_enabled": true
+                },
+                "list_type": 3
+            },
+            {
+                "status": {
+                    "status_label": {
+                        "text": "label_order_completed",
+                        "tl": false
+                    },
+                    "list_view_status_label": {
+                        "text": "label_completed",
+                        "tl": false
+                    }
+                },
+                "shipping": {
+                    "tracking_info": {
+                        "driver_phone": "",
+                        "driver_name": "",
+                        "ctime": 1688100254,
+                        "description": "Parcel has been delivered",
+                        "type": 0
+                    },
+                    "is_multi_parcel": false,
+                    "num_parcels": 1,
+                    "parcel_no": 1
+                },
+                "info_card": {
+                    "order_id": 141532628264741,
+                    "order_list_cards": [
+                        {
+                            "shop_info": {
+                                "shop_id": 86034135,
+                                "shop_name": "WDComputers",
+                                "user_id": 86035612,
+                                "username": "wdcomputers",
+                                "portrait": "473c13a80abd0f9ba126c8d3ea356b33",
+                                "shop_tag": 3
+                            },
+                            "order_id": 141532628264741,
+                            "parcel_cards": [
+                                {
+                                    "parcel_no": 1,
+                                    "forder_id": "5198482948858881135",
+                                    "product_info": {
+                                        "item_groups": [
+                                            {
+                                                "items": [
+                                                    {
+                                                        "item_id": 7945472982,
+                                                        "model_id": 22052343701,
+                                                        "shop_id": 86034135,
+                                                        "name": "ARCTIC P12 / ARCTIC P14 / ARCTIC F12 PWM PST/ PWM PST CO - 120mm / 140mm Case Fans, PWM Sharing Tech",
+                                                        "model_name": "P12 PWM PST White",
+                                                        "image": "2be84551466c55014fd04b94fc734cbd",
+                                                        "amount": 3,
+                                                        "ext_info": {
+                                                            "add_on_deal_id": 0,
+                                                            "is_add_on_sub_item": false,
+                                                            "free_return_day": 0,
+                                                            "is_wholesale": false,
+                                                            "is_pre_order": false,
+                                                            "is_membership_gift": false,
+                                                            "is_free_return": false
+                                                        },
+                                                        "status": 2,
+                                                        "item_price": 39900000,
+                                                        "order_price": 39900000,
+                                                        "snapshot_id": 19266848254
+                                                    }
+                                                ],
+                                                "num_items": 1
+                                            }
+                                        ],
+                                        "total_num_items": 1
+                                    }
+                                }
+                            ],
+                            "product_info": {
+                                "item_groups": [
+                                    {
+                                        "items": [
+                                            {
+                                                "item_id": 7945472982,
+                                                "model_id": 22052343701,
+                                                "shop_id": 86034135,
+                                                "name": "ARCTIC P12 / ARCTIC P14 / ARCTIC F12 PWM PST/ PWM PST CO - 120mm / 140mm Case Fans, PWM Sharing Tech",
+                                                "model_name": "P12 PWM PST White",
+                                                "image": "2be84551466c55014fd04b94fc734cbd",
+                                                "amount": 3,
+                                                "ext_info": {
+                                                    "add_on_deal_id": 0,
+                                                    "is_add_on_sub_item": false,
+                                                    "free_return_day": 0,
+                                                    "is_wholesale": false,
+                                                    "is_pre_order": false,
+                                                    "is_membership_gift": false,
+                                                    "is_free_return": false
+                                                },
+                                                "status": 2,
+                                                "item_price": 39900000,
+                                                "order_price": 39900000,
+                                                "snapshot_id": 19266848254
+                                            }
+                                        ],
+                                        "num_items": 1
+                                    }
+                                ],
+                                "total_num_items": 1
+                            }
+                        }
+                    ],
+                    "product_count": 1,
+                    "subtotal": 119700000,
+                    "final_total": 119700000
+                },
+                "primary_buttons": [
+                    {
+                        "id": 24
+                    }
+                ],
+                "guarantee": {
+                    "learn_more_url": "https://shopee.ph/m/shopee-guarantee",
+                    "is_extend_enabled": true
+                },
+                "list_type": 3
+            },
+            {
+                "status": {
+                    "status_label": {
+                        "text": "label_order_completed",
+                        "tl": false
+                    },
+                    "list_view_status_label": {
+                        "text": "label_completed",
+                        "tl": false
+                    }
+                },
+                "shipping": {
+                    "tracking_info": {
+                        "driver_phone": "",
+                        "driver_name": "",
+                        "ctime": 1686811317,
+                        "description": "Parcel has been delivered",
+                        "type": 0
+                    },
+                    "is_multi_parcel": false,
+                    "num_parcels": 1,
+                    "parcel_no": 1
+                },
+                "info_card": {
+                    "order_id": 140383171263961,
+                    "order_list_cards": [
+                        {
+                            "shop_info": {
+                                "shop_id": 201737234,
+                                "shop_name": "powerlongph",
+                                "user_id": 201740395,
+                                "username": "powerlongph",
+                                "portrait": "5db99e20b70938d7d630fa5c2ba7f5f6",
+                                "shop_tag": 0
+                            },
+                            "order_id": 140383171263961,
+                            "parcel_cards": [
+                                {
+                                    "parcel_no": 1,
+                                    "forder_id": "5188767430857740234",
+                                    "product_info": {
+                                        "item_groups": [
+                                            {
+                                                "items": [
+                                                    {
+                                                        "item_id": 8188178672,
+                                                        "model_id": 94086096760,
+                                                        "shop_id": 201737234,
+                                                        "name": "Powerlong Laptop Portable Notebook Laptop Sleeve Pouch Storage Bag Macbook 13.3 Inch",
+                                                        "model_name": "Dark Grey,13.3 inch (New)",
+                                                        "image": "febfcfbccb2e63b90b58f3db070a3db1",
+                                                        "amount": 1,
+                                                        "ext_info": {
+                                                            "add_on_deal_id": 0,
+                                                            "is_add_on_sub_item": false,
+                                                            "free_return_day": 0,
+                                                            "is_wholesale": false,
+                                                            "is_pre_order": false,
+                                                            "is_membership_gift": false,
+                                                            "is_free_return": false
+                                                        },
+                                                        "status": 2,
+                                                        "item_price": 32700000,
+                                                        "order_price": 32700000,
+                                                        "snapshot_id": 3950802850
+                                                    }
+                                                ],
+                                                "num_items": 1
+                                            }
+                                        ],
+                                        "total_num_items": 1
+                                    }
+                                }
+                            ],
+                            "product_info": {
+                                "item_groups": [
+                                    {
+                                        "items": [
+                                            {
+                                                "item_id": 8188178672,
+                                                "model_id": 94086096760,
+                                                "shop_id": 201737234,
+                                                "name": "Powerlong Laptop Portable Notebook Laptop Sleeve Pouch Storage Bag Macbook 13.3 Inch",
+                                                "model_name": "Dark Grey,13.3 inch (New)",
+                                                "image": "febfcfbccb2e63b90b58f3db070a3db1",
+                                                "amount": 1,
+                                                "ext_info": {
+                                                    "add_on_deal_id": 0,
+                                                    "is_add_on_sub_item": false,
+                                                    "free_return_day": 0,
+                                                    "is_wholesale": false,
+                                                    "is_pre_order": false,
+                                                    "is_membership_gift": false,
+                                                    "is_free_return": false
+                                                },
+                                                "status": 2,
+                                                "item_price": 32700000,
+                                                "order_price": 32700000,
+                                                "snapshot_id": 3950802850
+                                            }
+                                        ],
+                                        "num_items": 1
+                                    }
+                                ],
+                                "total_num_items": 1
+                            }
+                        }
+                    ],
+                    "product_count": 1,
+                    "subtotal": 30200000,
+                    "final_total": 30200000
+                },
+                "primary_buttons": [
+                    {
+                        "id": 24
+                    }
+                ],
+                "guarantee": {
+                    "learn_more_url": "https://shopee.ph/m/shopee-guarantee",
+                    "is_extend_enabled": true
+                },
+                "list_type": 3
+            },
+            {
+                "status": {
+                    "status_label": {
+                        "text": "label_order_completed",
+                        "tl": false
+                    },
+                    "list_view_status_label": {
+                        "text": "label_completed",
+                        "tl": false
+                    }
+                },
+                "shipping": {
+                    "tracking_info": {
+                        "driver_phone": "",
+                        "driver_name": "",
+                        "ctime": 1686718970,
+                        "description": "Parcel has been delivered",
+                        "type": 0
+                    },
+                    "is_multi_parcel": false,
+                    "num_parcels": 1,
+                    "parcel_no": 1
+                },
+                "info_card": {
+                    "order_id": 139840476261713,
+                    "order_list_cards": [
+                        {
+                            "shop_info": {
+                                "shop_id": 275407294,
+                                "shop_name": "misodiko PH",
+                                "user_id": 275412177,
+                                "username": "misodikoph.ph",
+                                "portrait": "2708b5398898fd0afffc342c4af1bf9f",
+                                "shop_tag": 3
+                            },
+                            "order_id": 139840476261713,
+                            "parcel_cards": [
+                                {
+                                    "parcel_no": 1,
+                                    "forder_id": "5184241516767744294",
+                                    "product_info": {
+                                        "item_groups": [
+                                            {
+                                                "items": [
+                                                    {
+                                                        "item_id": 5238454664,
+                                                        "model_id": 70017248084,
+                                                        "shop_id": 275407294,
+                                                        "name": "misodiko Upgraded Ear Pads Cushions Replacement for Bose QC45, QC35ii, QC35, QC25, QC2, QC15, AE2 Headphones",
+                                                        "model_name": "Fabric",
+                                                        "image": "b949c395885c5a0a3e0b22c0e3f21c6b",
+                                                        "amount": 1,
+                                                        "ext_info": {
+                                                            "add_on_deal_id": 0,
+                                                            "is_add_on_sub_item": false,
+                                                            "free_return_day": 0,
+                                                            "is_wholesale": false,
+                                                            "is_pre_order": false,
+                                                            "is_membership_gift": false,
+                                                            "is_free_return": false
+                                                        },
+                                                        "status": 2,
+                                                        "item_price": 59900000,
+                                                        "order_price": 59900000,
+                                                        "snapshot_id": 3996650851
+                                                    }
+                                                ],
+                                                "num_items": 1
+                                            }
+                                        ],
+                                        "total_num_items": 1
+                                    }
+                                }
+                            ],
+                            "product_info": {
+                                "item_groups": [
+                                    {
+                                        "items": [
+                                            {
+                                                "item_id": 5238454664,
+                                                "model_id": 70017248084,
+                                                "shop_id": 275407294,
+                                                "name": "misodiko Upgraded Ear Pads Cushions Replacement for Bose QC45, QC35ii, QC35, QC25, QC2, QC15, AE2 Headphones",
+                                                "model_name": "Fabric",
+                                                "image": "b949c395885c5a0a3e0b22c0e3f21c6b",
+                                                "amount": 1,
+                                                "ext_info": {
+                                                    "add_on_deal_id": 0,
+                                                    "is_add_on_sub_item": false,
+                                                    "free_return_day": 0,
+                                                    "is_wholesale": false,
+                                                    "is_pre_order": false,
+                                                    "is_membership_gift": false,
+                                                    "is_free_return": false
+                                                },
+                                                "status": 2,
+                                                "item_price": 59900000,
+                                                "order_price": 59900000,
+                                                "snapshot_id": 3996650851
+                                            }
+                                        ],
+                                        "num_items": 1
+                                    }
+                                ],
+                                "total_num_items": 1
+                            }
+                        }
+                    ],
+                    "product_count": 1,
+                    "subtotal": 54900000,
+                    "final_total": 54900000
+                },
+                "primary_buttons": [
+                    {
+                        "id": 24
+                    }
+                ],
+                "guarantee": {
+                    "learn_more_url": "https://shopee.ph/m/shopee-guarantee",
+                    "is_extend_enabled": true
+                },
+                "list_type": 3
+            },
+            {
+                "status": {
+                    "status_label": {
+                        "text": "label_order_completed",
+                        "tl": false
+                    },
+                    "list_view_status_label": {
+                        "text": "label_completed",
+                        "tl": false
+                    }
+                },
+                "shipping": {
+                    "tracking_info": {
+                        "driver_phone": "",
+                        "driver_name": "",
+                        "ctime": 1683954664,
+                        "description": "Parcel has been delivered",
+                        "type": 0
+                    },
+                    "is_multi_parcel": false,
+                    "num_parcels": 1,
+                    "parcel_no": 1
+                },
+                "info_card": {
+                    "order_id": 137423573202121,
+                    "order_list_cards": [
+                        {
+                            "shop_info": {
+                                "shop_id": 284787189,
+                                "shop_name": "usagilovers",
+                                "user_id": 284794629,
+                                "username": "usagilovers",
+                                "portrait": "97aec1a03c0c1452dce3ce30d4cd2b51",
+                                "shop_tag": 3
+                            },
+                            "order_id": 137423573202121,
+                            "parcel_cards": [
+                                {
+                                    "parcel_no": 1,
+                                    "forder_id": "5163787959671808189",
+                                    "product_info": {
+                                        "item_groups": [
+                                            {
+                                                "items": [
+                                                    {
+                                                        "item_id": 5143782810,
+                                                        "model_id": 21584561101,
+                                                        "shop_id": 284787189,
+                                                        "name": "Natrol Melatonin Gummies or Tablets, Adults & Kids, 10mg 5mg 3mg 1mg, Fast Dissolve or Time Release",
+                                                        "model_name": "5mg-90Tablets-FAST",
+                                                        "image": "12a9b1a026d2e1610ce2a24e96ce0bc5",
+                                                        "amount": 1,
+                                                        "ext_info": {
+                                                            "add_on_deal_id": 0,
+                                                            "is_add_on_sub_item": false,
+                                                            "free_return_day": 0,
+                                                            "is_wholesale": false,
+                                                            "is_pre_order": false,
+                                                            "is_membership_gift": false,
+                                                            "is_free_return": false
+                                                        },
+                                                        "status": 2,
+                                                        "item_price": 69800000,
+                                                        "price_before_discount": 78200000,
+                                                        "order_price": 69800000,
+                                                        "snapshot_id": 16039636007
+                                                    }
+                                                ],
+                                                "num_items": 1
+                                            }
+                                        ],
+                                        "total_num_items": 1
+                                    }
+                                }
+                            ],
+                            "product_info": {
+                                "item_groups": [
+                                    {
+                                        "items": [
+                                            {
+                                                "item_id": 5143782810,
+                                                "model_id": 21584561101,
+                                                "shop_id": 284787189,
+                                                "name": "Natrol Melatonin Gummies or Tablets, Adults & Kids, 10mg 5mg 3mg 1mg, Fast Dissolve or Time Release",
+                                                "model_name": "5mg-90Tablets-FAST",
+                                                "image": "12a9b1a026d2e1610ce2a24e96ce0bc5",
+                                                "amount": 1,
+                                                "ext_info": {
+                                                    "add_on_deal_id": 0,
+                                                    "is_add_on_sub_item": false,
+                                                    "free_return_day": 0,
+                                                    "is_wholesale": false,
+                                                    "is_pre_order": false,
+                                                    "is_membership_gift": false,
+                                                    "is_free_return": false
+                                                },
+                                                "status": 2,
+                                                "item_price": 69800000,
+                                                "price_before_discount": 78200000,
+                                                "order_price": 69800000,
+                                                "snapshot_id": 16039636007
+                                            }
+                                        ],
+                                        "num_items": 1
+                                    }
+                                ],
+                                "total_num_items": 1
+                            }
+                        }
+                    ],
+                    "product_count": 1,
+                    "subtotal": 64700000,
+                    "final_total": 64700000
+                },
+                "primary_buttons": [
+                    {
+                        "id": 24
+                    }
+                ],
+                "guarantee": {
+                    "learn_more_url": "https://shopee.ph/m/shopee-guarantee",
+                    "is_extend_enabled": true
+                },
+                "list_type": 3
+            },
+            {
+                "status": {
+                    "status_label": {
+                        "text": "label_order_completed",
+                        "tl": false
+                    },
+                    "list_view_status_label": {
+                        "text": "label_completed",
+                        "tl": false
+                    }
+                },
+                "shipping": {
+                    "tracking_info": {
+                        "driver_phone": "",
+                        "driver_name": "",
+                        "ctime": 1683949202,
+                        "description": "Parcel has been delivered",
+                        "type": 0
+                    },
+                    "is_multi_parcel": false,
+                    "num_parcels": 1,
+                    "parcel_no": 1
+                },
+                "info_card": {
+                    "order_id": 137185728248179,
+                    "order_list_cards": [
+                        {
+                            "shop_info": {
+                                "shop_id": 190646161,
+                                "shop_name": "Phone case Resellers Hub",
+                                "user_id": 190648957,
+                                "username": "qihangkeji.ph",
+                                "portrait": "1edd7c5d2fafb914eeebf4cd9b9dea6a",
+                                "shop_tag": 0
+                            },
+                            "order_id": 137185728248179,
+                            "parcel_cards": [
+                                {
+                                    "parcel_no": 1,
+                                    "forder_id": "5161947717258754161",
+                                    "product_info": {
+                                        "item_groups": [
+                                            {
+                                                "items": [
+                                                    {
+                                                        "item_id": 3932155521,
+                                                        "model_id": 41249111267,
+                                                        "shop_id": 190646161,
+                                                        "name": "Luxury Liquid Silicone Soft Phone Case Huawei P20 Lite P30 Pro P40 Shockproof Bumper Cover",
+                                                        "model_name": "Black,Huawei P30 Lite",
+                                                        "image": "439630cb31e53097c905bcf94f88b039",
+                                                        "amount": 1,
+                                                        "ext_info": {
+                                                            "add_on_deal_id": 0,
+                                                            "is_add_on_sub_item": false,
+                                                            "free_return_day": 0,
+                                                            "is_wholesale": false,
+                                                            "is_pre_order": false,
+                                                            "is_membership_gift": false,
+                                                            "is_free_return": false
+                                                        },
+                                                        "status": 2,
+                                                        "item_price": 6500000,
+                                                        "price_before_discount": 10900000,
+                                                        "order_price": 6500000,
+                                                        "snapshot_id": 26023810584
+                                                    }
+                                                ],
+                                                "num_items": 1
+                                            }
+                                        ],
+                                        "total_num_items": 1
+                                    }
+                                }
+                            ],
+                            "product_info": {
+                                "item_groups": [
+                                    {
+                                        "items": [
+                                            {
+                                                "item_id": 3932155521,
+                                                "model_id": 41249111267,
+                                                "shop_id": 190646161,
+                                                "name": "Luxury Liquid Silicone Soft Phone Case Huawei P20 Lite P30 Pro P40 Shockproof Bumper Cover",
+                                                "model_name": "Black,Huawei P30 Lite",
+                                                "image": "439630cb31e53097c905bcf94f88b039",
+                                                "amount": 1,
+                                                "ext_info": {
+                                                    "add_on_deal_id": 0,
+                                                    "is_add_on_sub_item": false,
+                                                    "free_return_day": 0,
+                                                    "is_wholesale": false,
+                                                    "is_pre_order": false,
+                                                    "is_membership_gift": false,
+                                                    "is_free_return": false
+                                                },
+                                                "status": 2,
+                                                "item_price": 6500000,
+                                                "price_before_discount": 10900000,
+                                                "order_price": 6500000,
+                                                "snapshot_id": 26023810584
+                                            }
+                                        ],
+                                        "num_items": 1
+                                    }
+                                ],
+                                "total_num_items": 1
+                            }
+                        }
+                    ],
+                    "product_count": 1,
+                    "subtotal": 6500000,
+                    "final_total": 6500000
+                },
+                "primary_buttons": [
+                    {
+                        "id": 24
+                    }
+                ],
+                "guarantee": {
+                    "learn_more_url": "https://shopee.ph/m/shopee-guarantee",
+                    "is_extend_enabled": true
+                },
+                "list_type": 3
+            },
+            {
+                "status": {
+                    "status_label": {
+                        "text": "label_order_completed",
+                        "tl": false
+                    },
+                    "list_view_status_label": {
+                        "text": "label_completed",
+                        "tl": false
+                    }
+                },
+                "shipping": {
+                    "tracking_info": {
+                        "driver_phone": "",
+                        "driver_name": "",
+                        "ctime": 1683255826,
+                        "description": "Parcel has been delivered",
+                        "type": 0
+                    },
+                    "is_multi_parcel": false,
+                    "num_parcels": 1,
+                    "parcel_no": 1
+                },
+                "info_card": {
+                    "order_id": 136850295229362,
+                    "order_list_cards": [
+                        {
+                            "shop_info": {
+                                "shop_id": 796856948,
+                                "shop_name": "3C PAERT",
+                                "user_id": 796840701,
+                                "username": "3cpaert",
+                                "portrait": "af7c142c76d386a227cb58e0b3f8be38",
+                                "shop_tag": 0
+                            },
+                            "order_id": 136850295229362,
+                            "parcel_cards": [
+                                {
+                                    "parcel_no": 1,
+                                    "forder_id": "5159020931917318948",
+                                    "product_info": {
+                                        "item_groups": [
+                                            {
+                                                "items": [
+                                                    {
+                                                        "item_id": 22030798985,
+                                                        "model_id": 214016790743,
+                                                        "shop_id": 796856948,
+                                                        "name": "【Local 24H ship】Samsung 8GB DDR3 DDR3L Notebook Memory RAM SODIMM 1600MHz 204Pin 1.35V RAM",
+                                                        "model_name": "",
+                                                        "image": "ph-11134201-23030-8nocqi1oigov57",
+                                                        "amount": 1,
+                                                        "ext_info": {
+                                                            "add_on_deal_id": 207645188,
+                                                            "add_on_sub_type": 1,
+                                                            "is_add_on_sub_item": false,
+                                                            "free_return_day": 0,
+                                                            "is_wholesale": false,
+                                                            "is_pre_order": false,
+                                                            "is_membership_gift": false,
+                                                            "is_free_return": false
+                                                        },
+                                                        "status": 2,
+                                                        "item_price": 44100000,
+                                                        "price_before_discount": 98000000,
+                                                        "order_price": 44100000,
+                                                        "snapshot_id": 14027480976
+                                                    }
+                                                ],
+                                                "num_items": 1
+                                            }
+                                        ],
+                                        "total_num_items": 1
+                                    }
+                                }
+                            ],
+                            "product_info": {
+                                "item_groups": [
+                                    {
+                                        "items": [
+                                            {
+                                                "item_id": 22030798985,
+                                                "model_id": 214016790743,
+                                                "shop_id": 796856948,
+                                                "name": "【Local 24H ship】Samsung 8GB DDR3 DDR3L Notebook Memory RAM SODIMM 1600MHz 204Pin 1.35V RAM",
+                                                "model_name": "",
+                                                "image": "ph-11134201-23030-8nocqi1oigov57",
+                                                "amount": 1,
+                                                "ext_info": {
+                                                    "add_on_deal_id": 207645188,
+                                                    "add_on_sub_type": 1,
+                                                    "is_add_on_sub_item": false,
+                                                    "free_return_day": 0,
+                                                    "is_wholesale": false,
+                                                    "is_pre_order": false,
+                                                    "is_membership_gift": false,
+                                                    "is_free_return": false
+                                                },
+                                                "status": 2,
+                                                "item_price": 44100000,
+                                                "price_before_discount": 98000000,
+                                                "order_price": 44100000,
+                                                "snapshot_id": 14027480976
+                                            }
+                                        ],
+                                        "num_items": 1
+                                    }
+                                ],
+                                "total_num_items": 1
+                            }
+                        }
+                    ],
+                    "product_count": 1,
+                    "subtotal": 44100000,
+                    "final_total": 44100000
+                },
+                "primary_buttons": [
+                    {
+                        "id": 24
+                    }
+                ],
+                "guarantee": {
+                    "learn_more_url": "https://shopee.ph/m/shopee-guarantee",
+                    "is_extend_enabled": true
+                },
+                "list_type": 3
+            },
+            {
+                "status": {
+                    "status_label": {
+                        "text": "label_order_completed",
+                        "tl": false
+                    },
+                    "list_view_status_label": {
+                        "text": "label_completed",
+                        "tl": false
+                    }
+                },
+                "shipping": {
+                    "tracking_info": {
+                        "driver_phone": "",
+                        "driver_name": "",
+                        "ctime": 1675144723,
+                        "description": "Parcel has been delivered",
+                        "type": 0
+                    },
+                    "is_multi_parcel": false,
+                    "num_parcels": 1,
+                    "parcel_no": 1
+                },
+                "info_card": {
+                    "order_id": 128206231242815,
+                    "order_list_cards": [
+                        {
+                            "shop_info": {
+                                "shop_id": 15764040,
+                                "shop_name": "HANS Imported Goods",
+                                "user_id": 15765376,
+                                "username": "hanskie23",
+                                "portrait": "1887d4dfed6c57fe3fb5583b8aea340c",
+                                "shop_tag": 3
+                            },
+                            "order_id": 128206231242815,
+                            "parcel_cards": [
+                                {
+                                    "parcel_no": 1,
+                                    "forder_id": "5086719100154369040",
+                                    "product_info": {
+                                        "item_groups": [
+                                            {
+                                                "items": [
+                                                    {
+                                                        "item_id": 17316750722,
+                                                        "model_id": 115652483090,
+                                                        "shop_id": 15764040,
+                                                        "name": "ON HAND SEALED Original Natrol Melatonin 5mg Extra Strength Time Release Fast Dissolve Gummies",
+                                                        "model_name": "(A) Time Release 100",
+                                                        "image": "96a5abd734db9edc97dd45eb9bced656",
+                                                        "amount": 1,
+                                                        "ext_info": {
+                                                            "add_on_deal_id": 203312128,
+                                                            "add_on_sub_type": 0,
+                                                            "is_add_on_sub_item": false,
+                                                            "free_return_day": 0,
+                                                            "is_wholesale": false,
+                                                            "is_pre_order": false,
+                                                            "is_membership_gift": false,
+                                                            "is_free_return": false
+                                                        },
+                                                        "status": 2,
+                                                        "item_price": 56900000,
+                                                        "price_before_discount": 82000000,
+                                                        "order_price": 56900000,
+                                                        "snapshot_id": 9101727278
+                                                    }
+                                                ],
+                                                "num_items": 1
+                                            }
+                                        ],
+                                        "total_num_items": 1
+                                    }
+                                }
+                            ],
+                            "product_info": {
+                                "item_groups": [
+                                    {
+                                        "items": [
+                                            {
+                                                "item_id": 17316750722,
+                                                "model_id": 115652483090,
+                                                "shop_id": 15764040,
+                                                "name": "ON HAND SEALED Original Natrol Melatonin 5mg Extra Strength Time Release Fast Dissolve Gummies",
+                                                "model_name": "(A) Time Release 100",
+                                                "image": "96a5abd734db9edc97dd45eb9bced656",
+                                                "amount": 1,
+                                                "ext_info": {
+                                                    "add_on_deal_id": 203312128,
+                                                    "add_on_sub_type": 0,
+                                                    "is_add_on_sub_item": false,
+                                                    "free_return_day": 0,
+                                                    "is_wholesale": false,
+                                                    "is_pre_order": false,
+                                                    "is_membership_gift": false,
+                                                    "is_free_return": false
+                                                },
+                                                "status": 2,
+                                                "item_price": 56900000,
+                                                "price_before_discount": 82000000,
+                                                "order_price": 56900000,
+                                                "snapshot_id": 9101727278
+                                            }
+                                        ],
+                                        "num_items": 1
+                                    }
+                                ],
+                                "total_num_items": 1
+                            }
+                        }
+                    ],
+                    "product_count": 1,
+                    "subtotal": 60700000,
+                    "final_total": 60700000
+                },
+                "primary_buttons": [
+                    {
+                        "id": 24
+                    }
+                ],
+                "guarantee": {
+                    "learn_more_url": "https://shopee.ph/m/shopee-guarantee",
+                    "is_extend_enabled": true
+                },
+                "list_type": 3
+            },
+            {
+                "status": {
+                    "status_label": {
+                        "text": "label_order_cancelled",
+                        "tl": false
+                    },
+                    "list_view_text": {
+                        "text": "order_list_text_cancelled_by_system",
+                        "tl": false
+                    },
+                    "list_view_status_label": {
+                        "text": "label_cancelled",
+                        "tl": false
+                    },
+                    "list_view_extra_cancel_info": {
+                        "title": {
+                            "text": "order_list_text_cancelled_by_system",
+                            "tl": false
+                        },
+                        "msg": {
+                            "text": "order_list_text_cancelled_pop_up",
+                            "tl": false
+                        },
+                        "cancel_reason": {
+                            "text": "label_cancel_order_reason_admin_204",
+                            "tl": false
+                        }
+                    }
+                },
+                "info_card": {
+                    "order_id": 128158390205940,
+                    "order_list_cards": [
+                        {
+                            "shop_info": {
+                                "shop_id": 804104458,
+                                "shop_name": "Hodekt Official Store",
+                                "user_id": 804090667,
+                                "username": "hodekt.official.ph",
+                                "portrait": "95ed4cca16738fd091b0502547c18631",
+                                "shop_tag": 1
+                            },
+                            "order_id": 128158390205940,
+                            "parcel_cards": [
+                                {
+                                    "parcel_no": 1,
+                                    "forder_id": "",
+                                    "product_info": {
+                                        "item_groups": [
+                                            {
+                                                "items": [
+                                                    {
+                                                        "item_id": 21862552975,
+                                                        "model_id": 117725012635,
+                                                        "shop_id": 804104458,
+                                                        "name": "HODEKT Bebird Smart Visual Ear Wax Remover Endoscope 500W High Precision Cameras WIFI Android/IOS Connect Ear Cleaner",
+                                                        "model_name": "white",
+                                                        "image": "sg-11134201-22120-7ezdmc4tz5kve3",
+                                                        "amount": 1,
+                                                        "ext_info": {
+                                                            "add_on_deal_id": 0,
+                                                            "is_add_on_sub_item": false,
+                                                            "free_return_day": 0,
+                                                            "is_wholesale": false,
+                                                            "is_pre_order": false,
+                                                            "is_membership_gift": false,
+                                                            "is_free_return": false
+                                                        },
+                                                        "status": 5,
+                                                        "item_price": 64900000,
+                                                        "price_before_discount": 99900000,
+                                                        "order_price": 64900000,
+                                                        "snapshot_id": 8801385370
+                                                    }
+                                                ],
+                                                "num_items": 1
+                                            }
+                                        ],
+                                        "total_num_items": 1
+                                    }
+                                }
+                            ],
+                            "product_info": {
+                                "item_groups": [
+                                    {
+                                        "items": [
+                                            {
+                                                "item_id": 21862552975,
+                                                "model_id": 117725012635,
+                                                "shop_id": 804104458,
+                                                "name": "HODEKT Bebird Smart Visual Ear Wax Remover Endoscope 500W High Precision Cameras WIFI Android/IOS Connect Ear Cleaner",
+                                                "model_name": "white",
+                                                "image": "sg-11134201-22120-7ezdmc4tz5kve3",
+                                                "amount": 1,
+                                                "ext_info": {
+                                                    "add_on_deal_id": 0,
+                                                    "is_add_on_sub_item": false,
+                                                    "free_return_day": 0,
+                                                    "is_wholesale": false,
+                                                    "is_pre_order": false,
+                                                    "is_membership_gift": false,
+                                                    "is_free_return": false
+                                                },
+                                                "status": 5,
+                                                "item_price": 64900000,
+                                                "price_before_discount": 99900000,
+                                                "order_price": 64900000,
+                                                "snapshot_id": 8801385370
+                                            }
+                                        ],
+                                        "num_items": 1
+                                    }
+                                ],
+                                "total_num_items": 1
+                            }
+                        }
+                    ],
+                    "product_count": 1,
+                    "subtotal": 68700000,
+                    "final_total": 68700000
+                },
+                "primary_buttons": [
+                    {
+                        "id": 24
+                    },
+                    {
+                        "id": 30
+                    }
+                ],
+                "guarantee": {
+                    "learn_more_url": "https://shopee.ph/m/shopee-guarantee",
+                    "is_extend_enabled": true
+                },
+                "list_type": 4,
+                "is_new_cancellation_flow_enabled": false
+            },
+            {
+                "status": {
+                    "status_label": {
+                        "text": "label_order_completed",
+                        "tl": false
+                    },
+                    "list_view_status_label": {
+                        "text": "label_completed",
+                        "tl": false
+                    }
+                },
+                "shipping": {
+                    "tracking_info": {
+                        "driver_phone": "",
+                        "driver_name": "",
+                        "ctime": 1672120462,
+                        "description": "Parcel has been delivered",
+                        "type": 0
+                    },
+                    "is_multi_parcel": false,
+                    "num_parcels": 1,
+                    "parcel_no": 1
+                },
+                "info_card": {
+                    "order_id": 125379732181521,
+                    "order_list_cards": [
+                        {
+                            "shop_info": {
+                                "shop_id": 10577576,
+                                "shop_name": "Tech Grocer",
+                                "user_id": 10578873,
+                                "username": "techgrocer",
+                                "portrait": "8b4ba12480b7494dcbdfedb09a3cf3d2",
+                                "shop_tag": 3
+                            },
+                            "order_id": 125379732181521,
+                            "parcel_cards": [
+                                {
+                                    "parcel_no": 1,
+                                    "forder_id": "5063036742749184576",
+                                    "product_info": {
+                                        "item_groups": [
+                                            {
+                                                "items": [
+                                                    {
+                                                        "item_id": 18555625080,
+                                                        "model_id": 202797044376,
+                                                        "shop_id": 10577576,
+                                                        "name": "JBL Wave Beam True Wireless Earbuds",
+                                                        "model_name": "White",
+                                                        "image": "sg-11134201-22100-p45iaomm0siv4d",
+                                                        "amount": 1,
+                                                        "ext_info": {
+                                                            "add_on_deal_id": 0,
+                                                            "is_add_on_sub_item": false,
+                                                            "free_return_day": 0,
+                                                            "is_wholesale": false,
+                                                            "is_pre_order": false,
+                                                            "is_membership_gift": false,
+                                                            "is_free_return": false
+                                                        },
+                                                        "status": 2,
+                                                        "item_price": 305000000,
+                                                        "price_before_discount": 379900000,
+                                                        "order_price": 305000000,
+                                                        "snapshot_id": 9900253199
+                                                    }
+                                                ],
+                                                "num_items": 1
+                                            }
+                                        ],
+                                        "total_num_items": 1
+                                    }
+                                }
+                            ],
+                            "product_info": {
+                                "item_groups": [
+                                    {
+                                        "items": [
+                                            {
+                                                "item_id": 18555625080,
+                                                "model_id": 202797044376,
+                                                "shop_id": 10577576,
+                                                "name": "JBL Wave Beam True Wireless Earbuds",
+                                                "model_name": "White",
+                                                "image": "sg-11134201-22100-p45iaomm0siv4d",
+                                                "amount": 1,
+                                                "ext_info": {
+                                                    "add_on_deal_id": 0,
+                                                    "is_add_on_sub_item": false,
+                                                    "free_return_day": 0,
+                                                    "is_wholesale": false,
+                                                    "is_pre_order": false,
+                                                    "is_membership_gift": false,
+                                                    "is_free_return": false
+                                                },
+                                                "status": 2,
+                                                "item_price": 305000000,
+                                                "price_before_discount": 379900000,
+                                                "order_price": 305000000,
+                                                "snapshot_id": 9900253199
+                                            }
+                                        ],
+                                        "num_items": 1
+                                    }
+                                ],
+                                "total_num_items": 1
+                            }
+                        }
+                    ],
+                    "product_count": 1,
+                    "subtotal": 278500000,
+                    "final_total": 278500000
+                },
+                "primary_buttons": [
+                    {
+                        "id": 24
+                    }
+                ],
+                "guarantee": {
+                    "learn_more_url": "https://shopee.ph/m/shopee-guarantee",
+                    "is_extend_enabled": true
+                },
+                "list_type": 3
+            },
+            {
+                "status": {
+                    "status_label": {
+                        "text": "label_order_completed",
+                        "tl": false
+                    },
+                    "list_view_status_label": {
+                        "text": "label_completed",
+                        "tl": false
+                    }
+                },
+                "shipping": {
+                    "tracking_info": {
+                        "driver_phone": "",
+                        "driver_name": "",
+                        "ctime": 1673245211,
+                        "description": "Parcel has been delivered",
+                        "type": 0
+                    },
+                    "is_multi_parcel": false,
+                    "num_parcels": 1,
+                    "parcel_no": 1
+                },
+                "info_card": {
+                    "order_id": 124942215251028,
+                    "order_list_cards": [
+                        {
+                            "shop_info": {
+                                "shop_id": 54626108,
+                                "shop_name": "ILOVESHOPPING",
+                                "user_id": 54627532,
+                                "username": "xinzhan.ph",
+                                "portrait": "980255d13b63e0a2f241f5aa0b9842d4",
+                                "shop_tag": 3
+                            },
+                            "order_id": 124942215251028,
+                            "parcel_cards": [
+                                {
+                                    "parcel_no": 1,
+                                    "forder_id": "5059243305154048108",
+                                    "product_info": {
+                                        "item_groups": [
+                                            {
+                                                "items": [
+                                                    {
+                                                        "item_id": 13824157043,
+                                                        "model_id": 131090894089,
+                                                        "shop_id": 54626108,
+                                                        "name": "LED USB Rechargeable Book Reading Light /Brightness Adjustable Eye Protection Clip Book Light",
+                                                        "model_name": "white",
+                                                        "image": "efb08bbf3bb755f16f7d68f056a22966",
+                                                        "amount": 1,
+                                                        "ext_info": {
+                                                            "add_on_deal_id": 0,
+                                                            "is_add_on_sub_item": false,
+                                                            "free_return_day": 0,
+                                                            "is_wholesale": false,
+                                                            "is_pre_order": false,
+                                                            "is_membership_gift": false,
+                                                            "is_free_return": false
+                                                        },
+                                                        "status": 2,
+                                                        "item_price": 23100000,
+                                                        "price_before_discount": 109700000,
+                                                        "order_price": 23100000,
+                                                        "snapshot_id": 7200137566
+                                                    }
+                                                ],
+                                                "num_items": 1
+                                            }
+                                        ],
+                                        "total_num_items": 1
+                                    }
+                                }
+                            ],
+                            "product_info": {
+                                "item_groups": [
+                                    {
+                                        "items": [
+                                            {
+                                                "item_id": 13824157043,
+                                                "model_id": 131090894089,
+                                                "shop_id": 54626108,
+                                                "name": "LED USB Rechargeable Book Reading Light /Brightness Adjustable Eye Protection Clip Book Light",
+                                                "model_name": "white",
+                                                "image": "efb08bbf3bb755f16f7d68f056a22966",
+                                                "amount": 1,
+                                                "ext_info": {
+                                                    "add_on_deal_id": 0,
+                                                    "is_add_on_sub_item": false,
+                                                    "free_return_day": 0,
+                                                    "is_wholesale": false,
+                                                    "is_pre_order": false,
+                                                    "is_membership_gift": false,
+                                                    "is_free_return": false
+                                                },
+                                                "status": 2,
+                                                "item_price": 23100000,
+                                                "price_before_discount": 109700000,
+                                                "order_price": 23100000,
+                                                "snapshot_id": 7200137566
+                                            }
+                                        ],
+                                        "num_items": 1
+                                    }
+                                ],
+                                "total_num_items": 1
+                            }
+                        }
+                    ],
+                    "product_count": 1,
+                    "subtotal": 26100000,
+                    "final_total": 26100000
+                },
+                "primary_buttons": [
+                    {
+                        "id": 24
+                    }
+                ],
+                "guarantee": {
+                    "learn_more_url": "https://shopee.ph/m/shopee-guarantee",
+                    "is_extend_enabled": true
+                },
+                "list_type": 3
+            }
+        ]
+    },
+    "checkout_data": {},
+    "next_offset": 20
+}
